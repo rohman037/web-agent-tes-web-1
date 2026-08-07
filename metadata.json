@@ -1,0 +1,8 @@
+{
+  "name": "Tools Satset",
+  "description": "Platform AI Tools Satset - Penjana Prompt, Ide Konten, Splitter Prompt, Frame Extractor, dan TikTok Downloader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
